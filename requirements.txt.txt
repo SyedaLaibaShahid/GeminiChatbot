@@ -1,8 +1,0 @@
-streamlit
-python-dotenv
-PyPDF2
-faiss-cpu
-numpy
-sentence-transformers
-transformers
-google-genai
